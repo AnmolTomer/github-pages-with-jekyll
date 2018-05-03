@@ -1,6 +1,6 @@
 ---
-title: "Motivation for Coding"
-date: 2018-05-04
+Title: "Motivation for Coding"
+Date: 2018-05-04
 ---
 
 What to do when you want to learn to code but everytime you sit to actually start learning you can't seem to have motivation or dedication?
@@ -11,7 +11,7 @@ Is this really what you want to do for a long term.
 
 What benefit you can get?
 
-What impact it would have on your life if you achive in getting for which you are learning to code.
+What impact it would have on your life if you achive the target for which you are learning to code?
 
 And believe me when i say this best motivation is what comes from inside not from outside. You’ve got to find that burning desire inside you which would make your mindset so motivated that even if whole world says you to not to code then as well you say i will code and i will learn it no matter what happens.
 
