@@ -1,3 +1,8 @@
+---
+title: "Motivation for Coding"
+date: 2018-05-04
+---
+
 What to do when you want to learn to code but everytime you sit to actually start learning you can't seem to have motivation or dedication?
 
 Search for answers inside you.
