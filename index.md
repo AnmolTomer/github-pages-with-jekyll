@@ -1,6 +1,6 @@
-# Welcome to my blog
+# What this Blog is about ?
 
-I'm glad you are here. I plan to talk about topics related to technology. Majority of the posts will be related to Developer (mostly Python, Java, C++), IT, Cloud Computing and Web Services, Computer Science Engineering, Algorithms, Cybersecurity, Networking, Data Science, Machine Learning and Artificial Intelligence.
+I'm glad you asked. I plan to talk about topics related to technology. Majority of the posts will be related to Developer (mostly Python, Java, C++), IT, Cloud Computing and Web Services, Computer Science Engineering, Algorithms, Cybersecurity, Networking, Data Science, Machine Learning and Artificial Intelligence.
 <br>
 Thanks for joining me on this journey where I try new things, learn, experiment, break things but most important of all I will keep moving.
 <br>This is what I have always wanted to do. I am going to make best of this oppotunity.
